@@ -64,6 +64,7 @@ _____________________________________________________________
  1. Crie o registro GET/upload images para buscar todas as imagens, utilize a URL https://api.thecatapi.com/v1/images?limit=1
  2. O `limit 1` é um *path param*  **obrigatório**.
  3. Quando criado com sucesso é exibido o status **200 OK**.
+
 Exemplo de resposta do *body*:
 [
 {
